@@ -1,0 +1,22 @@
+label
+{
+    background-color: black;
+    color: burlywood;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 1px;
+    font-size: large;
+}
+
+input
+{
+    color: aquamarine;
+    background-color: black;
+    font-weight: bolder;
+    font-size: large;
+}
+
+body
+{
+    background-color: darkcyan;
+}
